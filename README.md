@@ -13,3 +13,5 @@
    Команда:
    pyinstaller --onefile example.py 
    Вместо exapmle.py используем имя файла, из которого нужно создать exe файл.
+
+---
